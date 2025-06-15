@@ -1,4 +1,4 @@
-# Secure Sign-In With A Splash
+# Secure Sign-In With A Splash (ChatGPT)
 
 ![My Screenshot](Images/Image1.png)
 
